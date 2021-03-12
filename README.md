@@ -30,9 +30,9 @@ Now checkout "https://localhost:2020"
 
 I have used the port 2020 and you can change the port to any number you like.
 
-The list of the forever js commands are as follows,
+## The list of the forever js commands are as follows,
 
-for installing the forever,
+Installing the forever,
 ```
 npm i forever -g
 ```
