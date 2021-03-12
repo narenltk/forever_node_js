@@ -1,0 +1,11 @@
+{
+  "name": "forever",
+  "version": "1.0.0",
+  "description": "basic tutorial for forever js",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "node server.js"
+  },
+  "author": "narenltk",
+  "license": "MIT"
+}
