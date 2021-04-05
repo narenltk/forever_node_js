@@ -2,6 +2,10 @@
 
 For detalied information check the [Medium Blog](https://medium.com/geekculture/node-forever-js-on-any-virtual-machine-e5d573583b67?source=friends_link&sk=f594ba86398b05e4461418a9b956de2b)
 
+<p align="center">
+  <img src="img/logo.png">
+</p>
+
 Here you can get the code of the server.js for testing you application.
 
 If you wish to use the same code which I have then you may proceed with git clone 
