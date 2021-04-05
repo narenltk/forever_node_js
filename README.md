@@ -8,9 +8,7 @@ For detalied information check the [Medium Blog](https://medium.com/geekculture/
 
 Here you can get the code of the server.js for testing you application.
 
-If you wish to use the same code which I have then you may proceed with git clone 
-
-Open up ur terminal and given the following command,
+If you wish to use the same code which I have then open up ur terminal and give the following command,
 
 ```
 git clone https://github.com/narenltk/forever_node_js.git
